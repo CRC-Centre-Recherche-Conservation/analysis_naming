@@ -1,0 +1,51 @@
+Code,Nom en Français,English Name
+3D,Imagerie 3D,3D Imaging
+3D-LG,Imagerie 3D – Lasergrammétrie,3D Imaging – Laser Scanning
+3D-LS,Imagerie 3D – Lumière structurée,3D Imaging – Structured Light
+3D-PG,Imagerie 3D – Photogrammétrie,3D Imaging – Photogrammetry
+3D-VG,Imagerie 3D – Vidéogrammétrie,3D Imaging – Videogrammetry
+BINO,Imagerie par loupe binoculaire,Binocular Magnifier Imaging
+CE,Electrophorèse capillaire,Capillary Electrophoresis
+CE-MS,Electrophorèse capillaire couplée à la spectrométrie de masse,Capillary Electrophoresis coupled with Mass Spectrometry
+COLOR,Colorimétrie | spectro-colorimétrie,Colorimetry | spectrocolorimetry
+CR,Compte-rendu,Report
+DSC,Calorimétrie différentielle à balayage,Differential Scanning Calorimetry
+DVS,Sorption dynamique de vapeur,Dynamic Vapor Sorption
+FORS,Fiber optical reflectance spectroscopy,Fiber Optical Reflectance Spectroscopy
+GC-MS,Chromatographie en phase gazeuse couplée à la spectrométrie de masse,Gas Chromatography-Mass Spectrometry
+GC-2D-MS,Chromatographie en phase gazeuse à 2 dimensions couplée à la spectrométrie de masse,Two-Dimensional Gas Chromatography-Mass Spectrometry
+IR,Photographie infrarouge,Infrared Photography
+IRFC,Image fausse couleur avec photographie infrarouge,False Color Image with Infrared Photography
+IRTF,Spectroscopie infrarouge à transformée de Fourier,Fourier Transform Infrared Spectroscopy
+IRTF-ATR,Spectroscopie infrarouge à transformée de Fourier - mode réflectance,Fourier Transform Infrared Spectroscopy – reflectance
+LC-MS,Chromatographie en phase liquide couplée à la spectrométrie de masse,Liquid Chromatography-Mass Spectrometry
+MALDI-MS,Spectromètre de masse couplée à une source d'ionisation laser assistée par une matrice,Matrix-Assisted Laser Desorption/Ionization Mass Spectrometry
+MEB,Microscopie électronique à balayage,Scanning Electron Microscopy
+MECA,Essais mécaniques,Mechanical Testing
+MFT,Microfading tester,Microfading Tester
+MO,Microscopie optique,Optical Microscopy
+MPM,Multiphoton microscopy,Multiphoton Microscopy
+pH,Tests de pH,pH Testing
+PTR-MS,Spectrométrie de masse par transfert de charge protonique,Proton-Transfer-Reaction Mass Spectrometry
+RAMAN,Spectroscopie Raman,Raman Spectroscopy
+REFL,Spectrophotométrie de réflectance,Reflectance Spectrophotometry
+RIR,Réflectographie infrarouge,Infrared Reflectography
+RIS,Imagerie de réflectance hyperspectrale,Hyperspectral Reflectance Imaging
+RIS-SWIR,Imagerie de réflectance hyperspectrale – domaine infrarouge,Hyperspectral Reflectance Imaging – Short-Wave Infrared domain
+RIS-VNIR,Imagerie de réflectance hyperspectrale – domaine visible,Hyperspectral Reflectance Imaging –Visible and Near-Infrared domain
+RTI,Reflectance Transformation Imaging,Reflectance Transformation Imaging
+RX,Radiographies X,X-ray Radiography
+SEC,Chromatographie d’exclusion stérique,Size-Exclusion Chromatography
+TOMO,Tomographie X,X-ray Tomography
+TRANS,Spectrophotométrie de transmittance,Transmittance Spectrophotometry
+UVF,Photographie de fluorescence UV,UV Fluorescence Photography
+UVFC,Image fausse couleur avec photographie UVR,False Color Image with UV Reflectance Photography
+UVR,Photographie de réflectance UV,UV Reflectance Photography
+VIS,Photographie RGB,RGB Photography
+VIS-LD,Photographie RGB – Lumière directe,RGB Photography – Direct Light
+VIS-LR,Photographie RGB – Lumière rasante,RGB Photography – Raking Light
+VIS-LT,Photographie RGB – Lumière transmise,RGB Photography – Transmitted Light
+VIS-MP,Photographie RGB – Macrophotographie,RGB Photography – Macrophotography
+VIS-OL,Photographie RGB – Open light,RGB Photography – Open Light
+XRD,Diffraction des rayons X,X-ray Diffraction
+XRF,Spectroscopie de fluorescence des rayons X,X-ray Fluorescence Spectroscopy
